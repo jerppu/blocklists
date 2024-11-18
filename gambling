@@ -30,6 +30,7 @@
 0.0.0.0 slotuna.com
 0.0.0.0 go.netbet.com
 0.0.0.0 netticasino.com
+0.0.0.0 *.netticasino.com
 0.0.0.0 casinado.com
 0.0.0.0 northcasino.com
 0.0.0.0 playfina.com
